@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "noImplicitReturns": true,
+        "downlevelIteration": true,
+        "target": "ES2017",
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "lib": ["ESNext"]
+    }
+}

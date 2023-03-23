@@ -1,0 +1,4 @@
+/prompts/**
+/node_modules/**
+.env
+images/**
