@@ -11,7 +11,7 @@ const MODEL_MAX_TOKENS = {
   davinci: 1000,
   gpt: 4000,
   codex: 8000,
-  "4": 1500,
+  "4": 8000,
 };
 const MODELS = {
   curie: "text-curie-001",
